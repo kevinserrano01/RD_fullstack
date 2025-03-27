@@ -1,0 +1,11 @@
+.venv
+.idea
+test_main.http
+__pycache__/
+.idea/workspace.xml
+idea
+.idea/
+__pypackages__/
+.venv
+venv/
+venv.bak/
