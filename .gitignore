@@ -7,3 +7,4 @@ __pypackages__/
 .venv
 venv/
 venv.bak/
+.DS_Store
