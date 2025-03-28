@@ -9,6 +9,7 @@ services:
       - ./data.json:/app/data.json
     environment:
       - PYTHONUNBUFFERED=1
+      - ALLOWED_ORIGINS=http://localhost:3000
     networks:
       - mynetwork
 
