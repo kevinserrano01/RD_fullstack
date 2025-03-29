@@ -1,6 +1,6 @@
 # EJERCICIO PRÁCTICO RD
 
-Este proyecto es una aplicación full-stack que utiliza **Svelte** para el frontend y **FastAPI** para el backend y **Docker** como herramienta. El propósito de esta aplicación es proporcionar una solución eficiente y moderna para el desarrollo web.
+Este proyecto es una aplicación full-stack que utiliza **Svelte** para el frontend y **FastAPI** para el backend y **Docker** como herramienta. El propósito de esta aplicación es proporcionar una solución eficiente y moderna para la visualización de datos a travéz de un sitio web.
 
 ## 🟢 REQUISITOS PREVIOS
 
