@@ -38,5 +38,21 @@
   onMount(fetchData);
 </script>
 
-<div id="piechart" style="width: 600px; height: 400px;"></div>
-<div id="barplot" style="width: 600px; height: 400px;"></div>
+<div
+  class="flex flex-col items-center justify-center min-h-screen bg-gray-100 p-4"
+>
+  <h1 class="text-2xl font-bold text-gray-800 mb-6">Visualización de Datos</h1>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-6 w-full max-w-6xl">
+    <div
+      id="piechart"
+      class="bg-white rounded-lg shadow-md p-4"
+      style="width: 100%; height: 400px;"
+    ></div>
+    <div
+      id="barplot"
+      class="bg-white rounded-lg shadow-md p-4"
+      style="width: 100%; height: 400px;"
+    ></div>
+  </div>
+</div>
